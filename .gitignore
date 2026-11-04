@@ -16,3 +16,5 @@ fp-info-cache
 # OS-specific
 .DS_Store
 Thumbs.db
+*.lck
+*.kicad_prl
