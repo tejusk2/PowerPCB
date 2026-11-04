@@ -1,4 +1,4 @@
 (sym_lib_table
   (version 7)
-  (lib (name "2026-10-28_02-02-45")(type "KiCad")(uri "/home/tejus/Downloads/TPS259271DRCT/KiCADv6/2026-10-28_02-02-45.kicad_sym")(options "")(descr ""))
+  (lib (name "ProtLibrary")(type "KiCad")(uri "${KIPRJMOD}/ProtLibrary.kicad_sym")(options "")(descr ""))
 )
