@@ -1,0 +1,18 @@
+# KiCad temporary and backup files
+*.bak
+*.kicad_prl
+*-save.kicad_pcb
+*-save.kicad_sch
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.autosave
+
+# Output generation files
+*.drc
+*.rpt
+_autosave-*
+fp-info-cache
+
+# OS-specific
+.DS_Store
+Thumbs.db
