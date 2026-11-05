@@ -1,5 +1,6 @@
 # How to Use This Repo
-Run: git clone https://github.com/tejusk2/PowerPCB.git \n
+Run: git clone https://github.com/tejusk2/PowerPCB.git  
+
 git pull to get current changes \n
 git checkout -b <branch_name> to create a new branch \n
 git push origin <branch name> to push your branch to origin \n
