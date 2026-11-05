@@ -1,10 +1,14 @@
 # How to Use This Repo
-Run: git clone https://github.com/tejusk2/PowerPCB.git  
+Run: 
+git clone https://github.com/tejusk2/PowerPCB.git  
 
-git pull to get current changes \n
-git checkout -b <branch_name> to create a new branch \n
-git push origin <branch name> to push your branch to origin \n
-- pushing may require some setup of https or ssh tokens, ask AI how to do this \n
+git pull to get current changes  
+
+git checkout -b <branch_name> to create a new branch  
+
+git push origin <branch name> to push your branch to origin  
+- pushing may require some setup of https or ssh tokens, ask AI how to do this
+  
 ## Repository Structure
 
 ```text
@@ -18,11 +22,18 @@ git push origin <branch name> to push your branch to origin \n
 ├── .gitignore                 # Excludes caches, lock files, and local UI state
 └── README.md
 ```
-Keep the file structure shown above, the repository should only and always have these files. \n
-If you import an external symbol or footprint, add it to the project specific library. \n
-Check the sym-lib-table and fp-lib-table to make sure that you don't have an absolute path to the library, It should look like: \n
-Symbols: ${KIPRJMOD}/ProtLibrary.kicad_sym \n
-Footprints: ${KIPRJMOD}/protfootprints.pretty \n
+Keep the file structure shown above, the repository should only and always have these files.  
 
-Verify gitignore is active, and never push lck files or prl files. \n
-When making a PR, make sure all electrical rules and DRC are passed \n
+If you import an external symbol or footprint, add it to the project specific library.  
+
+Check the sym-lib-table and fp-lib-table to make sure that you don't have an absolute path to the library, It should look like:  
+
+Symbols: ${KIPRJMOD}/ProtLibrary.kicad_sym  
+
+Footprints: ${KIPRJMOD}/protfootprints.pretty  
+
+
+Verify gitignore is active, and never push lck files or prl files.  
+
+When making a PR, make sure all electrical rules and DRC are passed  
+
