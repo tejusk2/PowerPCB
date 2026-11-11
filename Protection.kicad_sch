@@ -3250,7 +3250,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "protfootprints:SASeries_LTF"
 			(at 36.83 71.12 0)
 			(hide yes)
 			(show_name no)
