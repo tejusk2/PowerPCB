@@ -4014,7 +4014,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-https://www.infineon.com/assets/row/public/documents/24/49/infineon-irf9z34n-datasheet-en.pdf"
+		(property "Datasheet" "https://www.infineon.com/assets/row/public/documents/24/49/infineon-irf9z34n-datasheet-en.pdf"
 			(at 74.93 67.31 0)
 			(hide yes)
 			(show_name no)
