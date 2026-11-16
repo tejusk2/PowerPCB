@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"RESISTANCE";"0.1";"Ω";
+"TraceParts.PartVersion";"1.0.2";"";
+"SUPPLIER";"Infineon Technologies AG";"";
+"NOMINAL_VOLTAGE";"-55";"V";
+"DESIGN";"IRF9Z34N - (-55V) Single P-Channel Power MOSFET in a TO-220 package, IRF9Z34NPbF";"";
+"TraceParts.PartNumber";"33-28062022-082642";"";
+"TraceParts.PartLanguage";"en";"";
+"OMNICLASS23";"23.27.17.00";"";
+"TraceParts.InstanceId";"33-28062022-0826427UQ9CJNJR8LVKQXUXCQCQJD5Y";"";
+"TraceParts.PartTitle";"IRF9Z34N";"";
+"REFERENCE";"IRF9Z34NPbF";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"CURRENT";"-19";"A";
