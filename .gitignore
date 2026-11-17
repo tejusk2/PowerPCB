@@ -6,6 +6,7 @@
 *.kicad_sch-bak
 *.kicad_pcb-bak
 *.autosave
+Protection-backups/
 
 # Output generation files
 *.drc
@@ -18,3 +19,4 @@ fp-info-cache
 Thumbs.db
 *.lck
 *.kicad_prl
+
