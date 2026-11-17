@@ -4003,7 +4003,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "protfootprints:TO-220-3_Vertical"
 			(at 59.69 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -4200,7 +4200,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "protfootprints:SASeries_LTF"
+		(property "Footprint" "protfootprints:D_DO-15_P15.24mm_Horizontal"
 			(at 35.56 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -4282,7 +4282,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "protfootprints:D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp"
 			(at 72.39 69.85 0)
 			(hide yes)
 			(show_name no)
